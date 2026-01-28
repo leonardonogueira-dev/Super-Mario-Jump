@@ -10,7 +10,7 @@ link do projeto online: https://voluble-sopapillas-16e40a.netlify.app/
 
 * Personagem (Mario)
 * O jogador deve **pular os obstáculos** para não perder o jogo
-* O jogo detecta colisão entre o Mario e o cano
+* O jogo detecta **colisão** entre o Mario e o cano
 * Ao colidir, o jogo é encerrado
 
 ## 🚀 Tecnologias utilizadas
